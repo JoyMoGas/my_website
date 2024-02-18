@@ -1,8 +1,7 @@
 *.db
 *.py[cod]
+.gitignore
 .web
 __pycache__/
-
-.gitignore
-venv/
 build.sh
+venv/
