@@ -1,8 +1,8 @@
 *.db
 *.py[cod]
-.web
-__pycache__/
-.venv/
-/build.sh
-rxconfig.py
 .gitignore
+.venv/
+.web
+/build.sh
+__pycache__/
+rxconfig.py
