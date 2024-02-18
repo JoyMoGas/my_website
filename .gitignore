@@ -2,4 +2,7 @@
 *.py[cod]
 .web
 __pycache__/
-venv/git
+.venv/
+/build.sh
+rxconfig.py
+.gitignore
